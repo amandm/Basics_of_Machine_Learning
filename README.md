@@ -1,4 +1,5 @@
-# Basics_of_Machine_Learning
+ML theory and articals
+
 Recap of useful algorithms related to machine learning, Mostly TF2.0 is used 
 
 - Simple Neural network for Linear regrassion
