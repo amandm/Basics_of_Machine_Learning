@@ -4,11 +4,12 @@
 
 # Precision, Recall and F1
 
-![Untitled](ML%20refresher%2099ac69b019064cbea8e538f20b43535d/Untitled.png)
+![Untitled](ML%20refresher/Untitled.png)
+<!-- C:\Users\amand\Desktop\gitUPLOAD\ML_cheatsheet\ML refresher 99ac69b019064cbea8e538f20b43535d\Untitled 1.png -->
 
-![Untitled](ML%20refresher%2099ac69b019064cbea8e538f20b43535d/Untitled%201.png)
+![Untitled](ML%20refresher/Untitled%201.png)
 
-![Untitled](ML%20refresher%2099ac69b019064cbea8e538f20b43535d/Untitled%202.png)
+![Untitled](ML%20refresher/Untitled%202.png)
 
 |  | Actual Positive | Actual negative |
 | --- | --- | --- |
